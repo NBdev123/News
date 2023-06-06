@@ -6,76 +6,15 @@
 
 @import "/css/header.css";
 
-@import "/tutorial/css/main-menu.css";
+@import "/css/main-menu.css";
 
-@import "/tutorial/css/colors.css";
+@import "/css/colors.css";
 
-@import "/tutorial/css/aside.css";
+@import "/css/aside.css";
 
-@import "/tutorial/css/content.css";
+@import "/css/content.css";
 
-@import "/tutorial/css/footer.css";
-
-
-
-
-
-header{
-    float: left;
-    width: 100%;
-    text-align: center;
-    margin: 20px 0;
-    
-  
-}
-
-header img{
-    width: 150px;
-}
-
-header h1{
-    color: var(--secondary-color);
-    font-size: 50px;
-    margin: 0;
-    text-shadow: 2px 2px 5px #ccc;
-
-
-}
-
-header h1 span{
-    color: var(--primary-color) ;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@import "/css/footer.css";
 
 
 
