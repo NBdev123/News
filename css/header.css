@@ -1,0 +1,25 @@
+header{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+    
+  
+}
+
+header img{
+    width: 150px;
+}
+
+header h1{
+    color: var(--secondary-color);
+    font-size: 50px;
+    margin: 0;
+    text-shadow: 2px 2px 5px #ccc;
+
+
+}
+
+header h1 span{
+    color: var(--primary-color) ;
+}
